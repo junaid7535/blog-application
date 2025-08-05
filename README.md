@@ -1,2 +1,1 @@
-# QuickBlog
-# QuickBlog
+# blog-application
